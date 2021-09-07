@@ -1,0 +1,11 @@
+.modal-style {
+}
+.each-user div {
+  display: flex;
+  justify-content: space-between;
+  /* padding-right: 10vw; */
+}
+.each-user div p:last-child {
+  text-align: left;
+  width: 60%;
+}
